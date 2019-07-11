@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\bin\Debug\netcoreapp2.1\gcLabTwo.deps.json
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\bin\Debug\netcoreapp2.1\gcLabTwo.runtimeconfig.json
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\bin\Debug\netcoreapp2.1\gcLabTwo.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\bin\Debug\netcoreapp2.1\gcLabTwo.dll
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\bin\Debug\netcoreapp2.1\gcLabTwo.pdb
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\obj\Debug\netcoreapp2.1\gcLabTwo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\obj\Debug\netcoreapp2.1\gcLabTwo.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\obj\Debug\netcoreapp2.1\gcLabTwo.AssemblyInfo.cs
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\obj\Debug\netcoreapp2.1\gcLabTwo.dll
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\obj\Debug\netcoreapp2.1\gcLabTwo.pdb
+C:\Users\joshu\source\repos\gcLabTwo\gcLabTwo\obj\Debug\netcoreapp2.1\gcLabTwo.csprojAssemblyReference.cache
